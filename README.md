@@ -5,8 +5,11 @@ This repository contains (or will contain) documents and data related to the (uh
 Included (eventually) in this repository are:
 
 * Documentation
-  * Technical Documentation: Technical documentation created by NARA describing TAGOKOR. These are also available from NARA online at http://research.archives.gov/description/1128348.
+  * Technical Documentation: Technical documentation created by NARA describing TAGOKOR.
   * Paper Documentation: Though TAGOKOR is an electronic record, the collection does include one archival box of additional paper documentation. Most (though not all) of these documents were photographed on a research visit to the Center for Electronic Records at "A2" (NARA, College Park, MD) in Summer 2013.
-  * Accession Dossier: An accession dossier is NARA's administrative file for an archival collection. As an active record, accession dossiers are not publicly available to researchers, but can be obtained via FOIA request (which NARA often encourages for those interested). The documentation included here are scans of the entirety of the set of documents sent to me in response to my FOIA request, a copy of which is also included.
-* Data: The raw ASCII dump of TAGOKOR data is available through NARA at http://research.archives.gov/description/1128348 and is also included here. In addition, I have been decoding the data in Open Refine using the technical documents and an Open Refine project tarball (not yet completely decoded) is also included here. I'll add a csv when it is fully decoded (you can generate your own from Open Refine in the impossible-to-imagine scenario in which you need one, like, now).
+  * Accession Dossier: An accession dossier is NARA's administrative file for an archival collection. As an active record, accession dossiers are not publicly available to researchers, but can be obtained via FOIA request (which NARA often encourages for those interested). The documentation linked here are scans of the entirety of the set of documents sent to me in response to my FOIA request, a copy of which is also included.
+
+* Data: The raw ASCII dump of TAGOKOR data is available through NARA at 
+http://research.archives.gov/description/1128348 and is also included here. In addition, I have been decoding the data in Open Refine using the technical documents and an Open Refine project tarball (not yet completely decoded) is also included here. I'll add a csv when it is fully decoded (you can generate your own from Open Refine in the impossible-to-imagine scenario in which you need one, like, now).
+
 * Visualizations: As part of the article, I used D3 to visualize some of the TAGOKOR data. It is mostly pretty basic stuff, but I hope to do more (and fancier), time permitting. (Again, forthcoming as of this commit).
