@@ -12,4 +12,4 @@ Included in this repository are:
 * Data: The raw ASCII dump of TAGOKOR data is available through NARA at 
 http://research.archives.gov/description/1128348 and is also included here. In addition, I have been decoding the data in Open Refine using the technical documents and an Open Refine project tarball (not yet completely decoded) is also included here. I'll add a related csv alongside it at each commit of an updated file.
 
-* Visualizations: As part of the article, I had planned to use D3 to visualize some of the TAGOKOR data. It wasn't done by deadline, but I still plan on doing it. When I get some of them done, they'll go here (and I'll blog about it or something). (So again, forthcoming as of this commit).
+* Visualizations: As part of the article, I had planned to use D3 to visualize some of the TAGOKOR data. It wasn't done by deadline, but I still plan on doing it. When I get some of them done, they'll go here (and I'll blog about it or something).
